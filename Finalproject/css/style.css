@@ -1,0 +1,97 @@
+.container {
+	min-height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+        width: 300px;
+	padding: 10px;
+}
+
+.container form {
+       
+	width: 700px;
+	padding: 10px;
+	border-radius: 5px;
+	box-shadow: 0 20px 20px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        background-color: burlywood;
+       
+      
+   
+}
+.box {
+	width: 900px;
+        display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.container table {
+	padding: 10px;
+	border-radius: 500px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+       flex-direction: column;
+         background-color: burlywood;
+       text-align: center;
+       width: 100%;
+        
+}
+.link-right {
+	display: flex;
+	justify-content: flex-end;
+} 
+body
+{
+    background-image: url("bck.jpg");
+  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+   
+}
+img {
+    
+    display: block;
+      margin: 0 auto;
+      border-radius: 0%;
+    }
+.box{
+        width: 750px;
+            width: 800px;
+        display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+        background-color:rosybrown; 
+        
+    }
+.container table{
+        
+        padding: 10px;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+         
+        
+    }
+    .link-right{
+        display: flex;
+        justify-content: flex-end;
+    }
+  
+    h4{
+        font-family: "Times New Roman", Times, serif;
+    }
+     h1{
+        font-family: "Times New Roman", Times, serif;
+    }
+    title{
+        font-family: "Times New Roman", Times, serif;
+    }
+       .link-right{
+        display: flex;
+        justify-content: flex-end;
+       }
+       
+     
+  
